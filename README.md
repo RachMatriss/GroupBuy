@@ -73,10 +73,15 @@ If you’re installing the project in a subdirectory (e.g., http://localhost/SHO
 
 ## Docker 
 * more info comming soon ...
-*`1) sudo docker-compose build`
-*`2) sudo docker-compose ps`
-*`3) sudo docker-compose up`
-  
+```
+1. sudo docker-compose build
+2. sudo docker-compose ps
+3. sudo docker-compose up
+```
+* run your phpadmin `http://localhost:8080/`
+run your web project 
+`http://localhost:7700/`
+
 ## Login to administration with:
 User: `admin`,  
 Pass: `admin`
