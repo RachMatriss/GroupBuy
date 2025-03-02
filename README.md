@@ -1,7 +1,7 @@
 
 
 ## (GroupBuy) Group Buying Responsive Shop Platform With Multi-Vendor, Multi-Language
-
+![GroupBuy project](GrouBuy.jpg)
 ### New Features:
 
 1. **Group Buying Only**:  
