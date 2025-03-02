@@ -1,6 +1,6 @@
 
 
-## Group Buying Responsive Shop Platform With Multi-Vendor, Multi-Language
+## (GroupBuy) Group Buying Responsive Shop Platform With Multi-Vendor, Multi-Language
 
 ### New Features:
 
