@@ -19,7 +19,8 @@
 * MySql DB
 
 ## Donate
-If this project helps you reduce time to develop, you can buy me a cup of coffee to continue its development. Thank you! :)
+If this project helps you reduce time to develop, you can buy me a cup of coffee to continue its development. 
+Thank you! :)
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)]()
 
 ## Support for the following features
