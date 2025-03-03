@@ -1,7 +1,7 @@
 
 
 ## (GroupBuy) Group Buying Responsive Shop Platform With Multi-Vendor, Multi-Language
-![GroupBuy project](GrouBuy.jpg)
+![GroupBuy project](GroupBuy.jpg)
 ### New Features:
 
 1. **Group Buying Only**:  
@@ -72,7 +72,7 @@ Thank you! :)
 If you’re installing the project in a subdirectory (e.g., http://localhost/SHOP), set this directory in `application/config/config.php` as `$config['base_url'] = 'http://localhost/SHOP';`. Also, remove the "RewriteBase /" line from the `.htaccess` file to ensure CSS and JS files load correctly. For best results, install the platform at the root level (http://localhost), or set up a virtual host for custom directories (example: http://shop.dev -> point to localhost/shop). You can read about setting up virtual hosts here: http://goo.gl/UvpYMG
 
 ## Docker 
-* more info comming soon ...
+* clone this repo, copy the hole GroupBuy project files in the src folder
 ```
 1. sudo docker-compose build
 2. sudo docker-compose ps
